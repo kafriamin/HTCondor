@@ -1,0 +1,6 @@
+JOB A A.sub
+JOB B B.sub
+JOB C C.sub
+JOB D D.sub
+PARENT A CHILD B C
+PARENT B C CHILD D
